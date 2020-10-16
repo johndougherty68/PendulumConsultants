@@ -1,0 +1,30 @@
+.pcImage {
+    width: 75%;
+    height: 75%;
+  }
+
+.nav-link {
+    color: #272c6e;
+}
+
+.my-4 {
+    color: #272c6e;
+}
+
+.card-header {
+    color: #272c6e;
+}
+
+.card-text {
+    color: #272c6e;
+}
+
+.btn-primary {
+    background-color: #272c6e;
+}
+
+.img-background{
+    background-image: url("../images/image004.jpg");
+    background-repeat: no-repeat;
+
+}
